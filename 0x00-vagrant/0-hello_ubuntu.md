@@ -1,9 +1,1 @@
-The Labour Party loves its rock stars. So imagine the restraint the party conference in Manchester had to apply to stop their members' underwear from showering Bill Clinton. Clinton, a sax-playing former member of the transatlantic rock group known as the Special Relations, was at his seductive best. And most striking of all was his use of the word ubuntu.
-
-According to his explanation, ubuntu means "I am, because you are". In fact, the word ubuntu is just part of the Zulu phrase "Umuntu ngumuntu ngabantu", which literally means that a person is a person through other people. Ubuntu has its roots in humanist African philosophy, where the idea of community is one of the building blocks of society. Ubuntu is that nebulous concept of common humanity, oneness: humanity, you and me both.
-
-Techies, however, would have heard the speech differently. They would have been drawing heavy breaths as another politician seemingly took credit for a technological advancement. Ubuntu, you see, is the name of the system used by the Linux operating system to distribute its software. Linux operating systems are open source, which means that anybody can do what they want with them - for free. It's a concept of sharing that may be uncommon in the secretive world of computer software, but is inspired by the philosophy of ubuntu.
-
-The main modern proponent of ubuntu philosophy is Archbishop Desmond Tutu. In his book, No Future Without Forgiveness, he describes a person with ubuntu as "open and available to others, affirming of others ... has a proper self-assurance." The ubuntu this person possesses comes from being part of a greater whole. South Africa's post-apartheid truth and reconciliation commission, which was chaired by Tutu, would have borrowed from ubuntu philosophy.
-
-So what was Bill Clinton actually saying to the Labour conference? He was simply saying, "You and me, we're the same, really." And a collective blush flashed across the faces of conference as he did so.
+ linux
